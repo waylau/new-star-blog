@@ -51,7 +51,7 @@ NewStarBlog covers Spring Framework 5, Spring Boot 2, Thymeleaf, Elasticsearch, 
 * Chinese characters friendly.（中文友好）
 * ...
 
-
+![](new-star-blog.png)
 
 ## How to 如何运行
 
