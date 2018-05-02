@@ -117,3 +117,5 @@ Support me!
 ![开源捐赠](https://waylau.com/images/showmethemoney-sm.jpg)
 
 捐赠所得所有款项将用于开源事业！
+
+See [the list of Donors](https://waylau.com/donate).
