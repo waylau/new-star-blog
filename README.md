@@ -76,11 +76,12 @@ then, you can visit the application at <http://localhost:8080>.
 
 More details can be found on my [blog](https://waylau.com).
 
-## Who use
+## Who use 谁在使用这个博客
 
 If you have successfully deployed NewStarBlog online, just let me know. Here are the users:
 
 * <http://www.lovebugs.cn>
+* <https://aceofspades.top>
 
 ## Related projects 相关的项目
 
