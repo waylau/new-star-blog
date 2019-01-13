@@ -82,6 +82,7 @@ If you have successfully deployed NewStarBlog online, just let me know. Here are
 
 * <http://www.lovebugs.cn>
 * <https://aceofspades.top>
+* <http://www.ongarabazhanadi.com/blogs>
 
 ## Related projects 相关的项目
 
